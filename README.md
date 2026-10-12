@@ -25,3 +25,6 @@ Running For Change
 `js/script.js` — маленький скрипт, который отвечает за быстрое переключение страниц.
 `fonts/` — папка со скачанным шрифтом `Righteous`.
 `images/` — папка со всеми картинками и иконками соцсетей.
+
+Ссылка на фигму: https://www.figma.com/site/uA0OjKGWmTvNfl87N7EaPU/Group-Event--Community-?t=tonnIsPjzAVGQ4f8-0
+Разрешения экранов: 992px, 768px
